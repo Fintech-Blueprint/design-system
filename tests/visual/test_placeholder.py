@@ -1,0 +1,1 @@
+def test_visual_placeholder():\n    assert True\n
