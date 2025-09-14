@@ -1,0 +1,1 @@
+# Contributing to design-system\n\nPlease open PRs against `main`. Ensure tests, linting, and a contract test (if applicable) pass. Follow code review guidelines.
