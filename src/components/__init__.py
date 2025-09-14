@@ -1,0 +1,1 @@
+def placeholder_component():\n    return None\n
