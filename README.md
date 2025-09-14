@@ -1,1 +1,1 @@
-# design-system
+# design-system\n\nShared design system and UI components with visual regression tests.\n
